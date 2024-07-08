@@ -1,6 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  font-weight: bolder;
+  background: linear-gradient(green, yellow, red);
 }
 
 .swim-lanes {
@@ -13,4 +15,10 @@ body {
 
 .task-card:hover {
   cursor: grab;
+}
+
+footer{
+  background-color: black;
+  color:burlywood;
+  text-align: center;
 }
